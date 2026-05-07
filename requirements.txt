@@ -1,4 +1,0 @@
-pygame==2.5.2
-# * Note: This requirements file is provided to satisfy the structural specification requests.
-# However, this project has been built as a React/TypeScript Web application for modern browser support as required by the platform environment constraints.
-# See package.json for the true dependencies.
